@@ -1,9 +1,9 @@
-###Date created
+### Date created
 - This project was created in __August 2021__
 - README file is created in __September 2021__.
 
 ### Project Title
-#Explore US bikeshare systems database
+# Explore US bikeshare systems database
 
 ### Description
 writing python codes to uncover bikeshare usage patterns in three major cities in the United States (Chicago, New York City, and Washington).
