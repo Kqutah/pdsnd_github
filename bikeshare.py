@@ -31,6 +31,7 @@ def get_filters():
     rdf['str_day_of_week']=rdf['Start Time'] .dt.weekday_name
     rdf['str_hour']=rdf['Start Time'] .dt.hour
     rdf['combine_station']=rdf['Start Station']+' and '+rdf['End Station']
+    rdf['End Time']=pd.to_datetime(rdf['End Time'])
 
 
     # TO DO: get user input for month (all, january, february, ... , june)
