@@ -172,12 +172,12 @@ def main():
         user_stats(df)
 
 
-        view_data=input('do you want to view  5 row of the data? type yes or no : ') .lower()
+        view_data=input('Do you want to view  5 rows of the data? type yes or no : ') .lower()
         start_data=0
         while view_data == 'yes':
             start_data+=5
             print(df.head(start_data))
-            view_data=input('do you want to view more 5 row of the data? Enter yes or no : ')
+            view_data=input('DO you want to view more 5 rows of the data? Type yes or no : ')
 
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
