@@ -1,20 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
-### Date created
-This project was created in August 2021
-README file is created in September 2021
+###Date created
+- This project was created in __August 2021__
+- README file is created in __September 2021__.
 
 ### Project Title
-Explore US bikeshare systems database
+#Explore US bikeshare systems database
 
 ### Description
 writing python codes to uncover bikeshare usage patterns in three major cities in the United States (Chicago, New York City, and Washington).
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-In Programming for Data Scientist with Python Nanodegree program on Udacity, I learned a lot of things that helped me explore these database.
-https://classroom.udacity.com/nanodegrees/nd104-connect/dashboard/overview
+In [Programming for Data Scientist with Python Nanodegree program](https://classroom.udacity.com/nanodegrees/nd104-connect/dashboard/overview) on Udacity, I learned a lot of things that helped me explore these database.
+
+:sparkles: :sparkles: :sparkles:
